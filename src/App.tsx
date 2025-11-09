@@ -36,6 +36,7 @@ function App() {
           </p>
           <a href="#iul" className="px-10 py-4 border border-accent text-accent rounded-sm hover:bg-accent hover:text-accent-foreground transition-all inline-flex items-center gap-3 text-sm tracking-wider uppercase font-light">
             Explore Solutions
+            <span>→</span>
           </a>
         </div>
       </section>
