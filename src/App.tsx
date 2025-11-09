@@ -41,7 +41,7 @@ function App() {
       </section>
 
       {/* IUL Section */}
-      <section id="iul" className="h-screen flex items-center px-6 bg-secondary snap-start">
+      <section id="iul" className="py-10 px-6 bg-secondary scroll-mt-32">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-center">
           <div
             className="rounded-lg overflow-hidden h-[500px] bg-cover bg-center shadow-luxury"
@@ -80,7 +80,7 @@ function App() {
       </section>
 
       {/* Annuities Section */}
-      <section id="annuities" className="h-screen flex items-center px-6 bg-card snap-start">
+      <section id="annuities" className="py-10 px-6 bg-card scroll-mt-32">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-center">
           <div>
             <div className="text-accent text-xs font-light tracking-widest mb-4 uppercase">Annuities</div>
@@ -119,7 +119,7 @@ function App() {
       </section>
 
       {/* Whole Life Section */}
-      <section id="whole-life" className="h-screen flex items-center px-6 bg-secondary snap-start">
+      <section id="whole-life" className="py-10 px-6 bg-secondary scroll-mt-32">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-center">
           <div
             className="rounded-lg overflow-hidden h-[500px] bg-cover bg-center shadow-luxury"
@@ -158,7 +158,7 @@ function App() {
       </section>
 
       {/* Term Life Section */}
-      <section id="term-life" className="h-screen flex items-center px-6 bg-card snap-start">
+      <section id="term-life" className="py-10 px-6 bg-card scroll-mt-32">
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-16 items-center">
           <div>
             <div className="text-accent text-xs font-light tracking-widest mb-4 uppercase">Term Life Insurance</div>
